@@ -44,7 +44,7 @@ cargo test
 | 프롬프트·랭킹 글꼴 | `assets/fonts/bmjua.ttf` | 배달의민족 주아체 |
 | 진엔딩 `앗!` 글꼴 | `assets/fonts/maplestory_bold.ttf` | [메이플스토리 서체](https://maplestory.nexon.com/Media/Font) |
 
-폰트는 재배포 조건을 이 저장소에서 보장할 수 없어 포함하지 않습니다. 각 폰트의 라이선스는 배포처에서 확인하세요. 배포 패치 v1.0.0은 다음 폰트 파일로 만들었습니다. Galmuri 세 파일은 SHA-256이 이 값과 다르면 빌드가 진행하지 않습니다.
+배포 패치 v1.0.0은 다음 폰트 파일로 만들었습니다. Galmuri 세 파일은 SHA-256이 이 값과 다르면 빌드가 진행하지 않습니다.
 
 ```text
 6fe6c3fe4369e3837ac348431e8670733d67aa4bd550982baa72cc93c81a1c68  galmuri14.ttf
