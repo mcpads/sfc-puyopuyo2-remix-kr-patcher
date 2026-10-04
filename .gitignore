@@ -1,0 +1,16 @@
+/target
+roms/
+out/
+assets/
+*.sfc
+*.smc
+*.ips
+*.bps
+*.xdelta
+*.bin
+*.sav
+*.srm
+.DS_Store
+.claude/
+.emucap/
+.worktrees/
